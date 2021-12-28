@@ -1,3 +1,7 @@
-# Quill ORM [WIP]
+# Quill (not)ORM
+[WIP]
 
-## A lightweight Rust ORM for SQL (PostgreSQL, MySQL, SQLite) databases.
+### A lightweight frontend library for composing practical SQL queries, with ORM-like functionality built-in for rapid depoloyment.
+
+- Built with Rust and Sea-Query.
+- Compatible with PostgreSQL, MySQL and SQLite databases.
